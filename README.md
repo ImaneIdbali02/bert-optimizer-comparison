@@ -1,7 +1,6 @@
 # BERT Optimizer Comparison
 
-I wanted to see if AdamW is really the best choice for fine-tuning BERT, so I ran an experiment comparing different optimizers. Spoiler: AdamW is still really solid, but there are trade-offs worth noting.
-
+I wanted to see if AdamW is really the best choice for fine-tuning BERT, so I ran an experiment comparing different optimizers. 
 ## Experiment Setup
 
 I tested 4 optimizers on BERT fine-tuning using the GLUE benchmark (MRPC and SST-2):
