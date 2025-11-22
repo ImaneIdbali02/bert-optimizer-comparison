@@ -129,7 +129,7 @@ Ideas for improvement:
 
 ## License
 
-MIT 
+This project is for educational and academic purposes.
 
 ---
 
